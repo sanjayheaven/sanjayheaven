@@ -21,7 +21,6 @@ const Dorvan = {
     frontEnd: {
       js: ["React.js", "Vue.js", "Next.js"],
       css: ["Tailwind CSS", "Ant Design"],
-      ui: ["Ant Design", "Element UI"],
     },
     backEnd: {
       js: ["Koa.js", "Express.js", "Mongoose", "TypeORM"],
@@ -30,6 +29,7 @@ const Dorvan = {
     mobileApp: ["React Native", "UniApp"],
     devOps: ["AWS", "CloudFlare", "Nginx", "Docker", "Docker Compose", "CI/CD"],
     databases: ["MongoDB", "Redis", "PostgreSQL", "MySQL"],
+    tools: ["Git", "PNPM", "Vercel", "Firebase"],
   },
   currentFocus: "Improving development efficiency and user experience",
 };
